@@ -1,0 +1,36 @@
+body{
+  margin:0;
+}
+.bg{
+  width: 100%;
+}
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.navbar{
+  background-color: #9d0b0b;
+}
+.reg{
+  width: 100%;
+  max-width: 100%;
+  position: absolute;
+  top: 55%;
+  z-index: 1;
+}
+.reg h3{
+  color:#fff;
+  font-size: 3rem;
+}
+.signup-body{
+background-color: #fdfdfd;
+
+}
+.fill-in{
+  position: absolute;
+  top:20%;
+}
+da2d2d
+eb8242
+f6da63
+9d0b0b
